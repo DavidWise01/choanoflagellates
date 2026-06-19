@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Collar",
+  "universe": "CHO · The Collar (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Collar:CHO:1145ad⟧",
+  "carbon": "the-collar.carbon.tiff (TIFF)",
+  "silicon": "the-collar.silicon.png (PNG)",
+  "seal_sha256": "e3ea912352cf288b9ae986dc2e34a2938a2a9e81442eb00cbd6466278ff6ae07",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

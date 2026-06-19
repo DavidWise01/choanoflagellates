@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Choanoflagellate",
+  "universe": "CHO · The Choanoflagellate (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Choanoflagellate:CHO:87d4d2⟧",
+  "carbon": "the-choanoflagellate.carbon.tiff (TIFF)",
+  "silicon": "the-choanoflagellate.silicon.png (PNG)",
+  "seal_sha256": "7ef2d394314d7d51756b9d8228e13cbe4aa4c4bf962f132434da430530e142c3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

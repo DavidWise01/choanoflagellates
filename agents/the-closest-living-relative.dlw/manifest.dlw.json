@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Closest Living Relative",
+  "universe": "CHO · The Closest Living Relative (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Closest Living Relative:CHO:10d771⟧",
+  "carbon": "the-closest-living-relative.carbon.tiff (TIFF)",
+  "silicon": "the-closest-living-relative.silicon.png (PNG)",
+  "seal_sha256": "6757b2963e314ce6a2ede90ff9d108218073c8a3a0b06fa34ec769923a4e8818",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

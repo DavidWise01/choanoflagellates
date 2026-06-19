@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Bacterial Trigger",
+  "universe": "CHO · The Bacterial Trigger (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Bacterial Trigger:CHO:333617⟧",
+  "carbon": "the-bacterial-trigger.carbon.tiff (TIFF)",
+  "silicon": "the-bacterial-trigger.silicon.png (PNG)",
+  "seal_sha256": "373c5e376de9f91b4b3bdffdf779e21e9a8486f1b69d541469a23ce08bce2744",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

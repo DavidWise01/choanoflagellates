@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Multicellularity Toolkit",
+  "universe": "CHO · The Multicellularity Toolkit (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Multicellularity Toolkit:CHO:c96a1d⟧",
+  "carbon": "the-multicellularity-toolkit.carbon.tiff (TIFF)",
+  "silicon": "the-multicellularity-toolkit.silicon.png (PNG)",
+  "seal_sha256": "955338023850f5d5f5ee3eb45ef1ec09ac6ec4457ea2957fb88886b69ea8460c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

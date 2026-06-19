@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Ernst Haeckel",
+  "universe": "CHO · Ernst Haeckel (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Ernst Haeckel:CHO:477310⟧",
+  "carbon": "ernst-haeckel.carbon.tiff (TIFF)",
+  "silicon": "ernst-haeckel.silicon.png (PNG)",
+  "seal_sha256": "b1f1b94ad732e9958f37bb6f73f445421452e932e61309c93c13e3e243ded19c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

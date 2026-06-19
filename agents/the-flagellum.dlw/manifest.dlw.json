@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Flagellum",
+  "universe": "CHO · The Flagellum (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Flagellum:CHO:14c4f9⟧",
+  "carbon": "the-flagellum.carbon.tiff (TIFF)",
+  "silicon": "the-flagellum.silicon.png (PNG)",
+  "seal_sha256": "4bdef33994df7f2ef6ba9d898f63aac309f75560142ba1b6da8b4eb4b63854b1",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

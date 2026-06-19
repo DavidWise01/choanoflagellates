@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Threshold",
+  "universe": "CHO · The Threshold (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Threshold:CHO:d3f3ed⟧",
+  "carbon": "the-threshold.carbon.tiff (TIFF)",
+  "silicon": "the-threshold.silicon.png (PNG)",
+  "seal_sha256": "047bf605264dc6d307aa032df2d84fad8971127c33f7444e09e0a51aec1de4e2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Salpingoeca rosetta",
+  "universe": "CHO · Salpingoeca rosetta (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦Salpingoeca rosetta:CHO:9d3c64⟧",
+  "carbon": "salpingoeca-rosetta.carbon.tiff (TIFF)",
+  "silicon": "salpingoeca-rosetta.silicon.png (PNG)",
+  "seal_sha256": "5a521aab279d3cbda6b50aa7e905de9ed705a156588b5f4251ecf493622a2c0d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
