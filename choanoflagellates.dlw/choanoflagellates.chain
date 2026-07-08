@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 785
+slug  : choanoflagellates
+seal  : 22e7361c41f13c793f93b8bc77830a1d0a3435ac9127c4ce9879f63522935bca
+prev  : c041239eb50d5458d2dd4136127085593d448e4570d95a1a7ed59dcd5608da1b
+link  : 081d1f89bfaeb0892c72cf7223e0010b44479501e600d29e88c21f29802f397b
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
